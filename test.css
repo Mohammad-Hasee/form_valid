@@ -1,0 +1,255 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.ongap{
+    width: 1000px;
+    height: 150px;
+}
+.corner{
+    height: 148px;
+    width: 200px;
+    top: 2px;
+    right: 0;
+    margin-left: 800px;
+    position: relative;
+}
+.top{
+    top: 20px;
+    position: absolute;
+}
+button{
+    height: 60px;
+    width: 80px;
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.father_name{
+    float: left;
+}
+.mother_name{
+    float: left;
+    overflow: hidden;
+    margin-left: 40px;
+}
+.gender{
+    margin-left: 470px;
+}
+
+.date_of_birth{
+    float: left;
+}
+.religion{
+    overflow: hidden;
+    float: left;
+    margin-left: 40px;
+}
+.ethnic{
+    margin-left: 470px;
+}
+.mobile{
+    float: left;
+}
+.email{
+    overflow: hidden;
+    margin-left: 350px;
+}
+.employed{
+    float: left;
+}
+.monthly_income{
+    overflow: hidden;
+    margin-left: 250px;
+}
+.company_name{
+    float: left;
+}
+.designition{
+    overflow: hidden;
+    margin-left: 350px;
+}
+.city{
+    float: left;
+}
+.post_code{
+    overflow: hidden;
+    margin-left: 350px;
+}
+.division{
+    float: left;
+}
+.district{
+    float: left;
+    overflow: hidden;
+    margin-left: 40px;
+}
+.sub-district{
+    margin-left: 470px;
+}
+.level_of_education{
+    float: left;
+}
+.main{
+    margin-left: 15%;
+    width: 1000px;
+}
+input{
+    width: 250px;
+    height: 20px;
+    /*margin-top: 10px;*/
+}
+.employed input{
+    height: 15px;
+    width: 20px;
+}
+.subject{
+    float: left;
+}
+.year{
+    overflow: hidden;
+    margin-left: 350px;
+}
+.institute{
+    margin-left: 348px;
+}
+.button{
+    margin-left: 200px;
+    margin-top: 20Px;
+}
+label{
+    margin-top: 10px;
+}
+.present_address{
+    width: 700px;
+}
+.permanent_address{
+    width: 700px;
+}
+.highest_academic_achievment{
+    width: 700px;
+}
+.photo{
+    width: 700px;
+}
+.security{
+    width: 700px;
+}
+
+#unic{
+    margin-top: 10px;
+}
+#distance{
+    margin-top: 60px;
+}
+.finally{
+    height: 400px;
+    background-color: #2d3436;
+    
+}
+.footer{
+    height: 50px;
+}
+.arbi{
+    height: 320px;
+    width: 1030px;
+    background-color: #2d3436;
+    position: relative;
+}
+.a{
+    height: 220px;
+    width: 220px;
+    background-color: rgb(98, 101, 101);
+    position: absolute;
+    bottom: 5px;
+    left: 0px;
+}
+.b{
+    height: 220px;
+    width: 220px;
+    background-color: rgb(98, 101, 101);
+    position: absolute;
+    bottom: 5px;
+    left: 260px;
+    
+}
+.c{
+    height: 220px;
+    width: 220px;
+    background-color: rgb(98, 101, 101);
+    position: absolute;
+    bottom: 5px;
+    left: 520px;
+}
+.d{
+    height: 220px;
+    width: 220px;
+    background-color: rgb(98, 101, 101);
+    position: absolute;
+    bottom:5px;
+    left: 780px;
+   
+}
+.e{
+    height:50px;
+    width: 240px;
+    background-color: #2d3436;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
+.f{
+    height:50px;
+    width: 240px;
+    background-color: #2d3436;
+    position: absolute;
+    top: 0px;
+    left: 260px;
+
+}
+.g{
+    height:50px;
+    width: 240px;
+    background-color: #2d3436;
+    position: absolute;
+    top: 0px;
+    left: 520px;
+
+}
+.h{
+    height:50px;
+    width: 240px;
+    background-color: #2d3436;
+    position: absolute;
+    top: 0px;
+    left: 780px;
+
+}
+.final{
+    position: relative;
+    color: white;
+}
+.bangla{
+    height: 300px;
+    width: 1030px;
+    background-color: #2d3436;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+.foot{
+    height: 20px;
+    width: 500px;
+    margin-left: 200px;
+}
+
+
+
+
+
+
+
+
